@@ -1,0 +1,7 @@
+Notes
+
+App_Data will contain database related files
+
+App_Start will contain configuration files
+
+Content will contain CSS related files (bootstrap)
