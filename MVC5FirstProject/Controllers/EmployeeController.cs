@@ -19,7 +19,7 @@ namespace MVC5FirstProject.Controllers
                 EmployeeLocation = "Seattle"
             };
 
-            return View();
+            return View(employee);
         }
     }
 }
