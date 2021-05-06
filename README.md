@@ -20,6 +20,8 @@ Please feel free to reach out to me anytime at <tawneeh@icloud.com>
 
 * C#
 * ASP.NET MVC 5
+* JavaScript
+* HTML
 
 ### License
 
