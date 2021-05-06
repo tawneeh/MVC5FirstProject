@@ -5,3 +5,18 @@ App_Data will contain database related files
 App_Start will contain configuration files
 
 Content will contain CSS related files (bootstrap)
+
+Controllers default includes HomeController.cs
+
+Fonts will contain images, icons, etc
+
+Models will contain all of our Models. A Model represents data and logic in our application
+	We create objects and classes in the Models directory
+
+Scripts will contain required javascript files such as bootstrap.js and jquery-3.4.1.js
+
+Views will contain all of the views for the application. Default includes the Views/Home folder
+
+Package.config will contain dependency files or references
+
+Web.config will define connectionStrings, AppSettings, etc
